@@ -1,17 +1,17 @@
 # 👩‍🏫 Proffy
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/luanaferraz/proffy?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luanaferraz/proffy">
 
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
+  <a href="https://github.com/tgmarinho/luanaferraz/proffy/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luanaferraz/proffy">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
+   <a href="https://github.com/luanaferraz/proffy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/luanaferraz/proffy?style=social">
   </a>
 
 </p>
