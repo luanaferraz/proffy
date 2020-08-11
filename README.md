@@ -176,8 +176,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
-[![Linkedin Badge](https://img.shields.io/badge/-Luana-Ferraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-ferraz-b384b713b/)](https://www.linkedin.com/in/luana-ferraz-b384b713b/) 
+## 👩‍ Autor
+[![Linkedin Badge](https://img.shields.io/badge/-Luana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-ferraz-b384b713b/)](https://www.linkedin.com/in/luana-ferraz-b384b713b/) 
 [![Gmail Badge](https://img.shields.io/badge/-luanarufino94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanarufino94@gmail.com)](mailto:luanarufino94@gmail.com)
 
 ---
