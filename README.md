@@ -63,7 +63,7 @@ O layout da aplicação está disponível no Figma:
 <a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web">
   Layout Web
 </a>
-
+<br>
 <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile">
   Layout Mobile
 </a>
@@ -143,7 +143,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Axios](https://github.com/axios/axios)**
 
-> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/luanaferraz/proffy/blob/master/web/package.json)
 
 #### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -177,7 +177,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 🦸 Autor
-[![Linkedin Badge](https://img.shields.io/badge/-Luana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-ferraz-b384b713b/)](https://www.linkedin.com/in/luana-ferraz-b384b713b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Luana-Ferraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-ferraz-b384b713b/)](https://www.linkedin.com/in/luana-ferraz-b384b713b/) 
 [![Gmail Badge](https://img.shields.io/badge/-luanarufino94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanarufino94@gmail.com)](mailto:luanarufino94@gmail.com)
 
 ---
