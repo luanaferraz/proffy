@@ -145,7 +145,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
 
-#### []**Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -155,7 +155,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo  [package.json](https://github.com/luanaferraz/proffy/blob/master/server/package.json)
 
-#### [])**Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Expo](https://expo.io/)**
 -   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
@@ -177,8 +177,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 🦸 Autor
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-ferraz-b384b713b/)](https://www.linkedin.com/in/luana-ferraz-b384b713b/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanarufino94@gmail.com)](mailto:luanarufino94@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Luana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-ferraz-b384b713b/)](https://www.linkedin.com/in/luana-ferraz-b384b713b/) 
+[![Gmail Badge](https://img.shields.io/badge/-luanarufino94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanarufino94@gmail.com)](mailto:luanarufino94@gmail.com)
 
 ---
 
