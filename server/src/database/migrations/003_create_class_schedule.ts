@@ -8,7 +8,7 @@ export async function up(knex: Knex) {
     table.integer('to').notNullable();
 
     table.integer('class_id')
-      .notNullable()
+    .unsigned()
       .references('id')
       .inTable('classes')
       .onUpdate('CASCADE')
